@@ -36,5 +36,4 @@ library of eel : https://drive.google.com/open?id=1LphmYEBwa-SXbTFXuxIKBAt4iQ1Z2
 -->u can see the images on which assumption of emotion is made in the images folder.
    I advise u to train the model in your pc and then use it(I case you are using any new or updated dataset).
    
--->for any query u can mail on shahyash2609@gmail.com.
-Thank You.
+
