@@ -1,6 +1,5 @@
 Emotion-Based-music-player
 It's music player with chrome as front-End which has the capablity to detect emotions from the face of user with the help of machine learning algorithm.  
-Credits of this project goes to @yashshah2609 and @PartheshSoni.
 Description :
 
       In this project we have used libraries like OpenCV, EEL, numpy etc.
